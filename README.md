@@ -80,22 +80,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <br/>
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JosielSantos16&theme=transparent&hide_border=true&stroke=4F46E5&ring=75DFFE&fire=425CFF&currStreakLabel=75DFFE&sideLabels=4F46E5&dates=4F46E5&locale=pt-br"
-    alt="Sequência de contribuições no GitHub"
-  />
-</p>
 
-<br/>
-
-<p align="center">
-  <img
-    width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JosielSantos16&bg_color=transparent&color=75DFFE&line=4F46E5&point=425CFF&area=true&area_color=4F46E5&hide_border=true&locale=pt-br"
-    alt="Gráfico de atividade no GitHub"
-  />
-</p>
 
 <br/><br/>
 
