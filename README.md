@@ -88,43 +88,6 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 
 <h2 align="center">🐍 Cobrinha de Contribuições</h2>
 
-<!--
-  Para essa animação funcionar, crie o arquivo abaixo no seu repositório
-  JosielSantos16/JosielSantos16 em: .github/workflows/snake.yml
-
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-
-  jobs:
-    generate:
-      permissions:
-        contents: write
-
-      runs-on: ubuntu-latest
-
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: JosielSantos16
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/JosielSantos16/JosielSantos16/output/github-contribution-grid-snake.svg"
