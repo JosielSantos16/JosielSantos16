@@ -9,42 +9,17 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF93C4&center=true&vCenter=true&random=false&width=650&lines=Desenvolvedor+Full-Stack;Solucionador+Criativo+de+Problemas;Transformando+Ideias+em+Realidade;Sempre+Aprendendo+Algo+Novo"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&random=false&width=650&lines=Desenvolvedor+Full-Stack;Solucionador+Criativo+de+Problemas;Transformando+Ideias+em+Realidade;Sempre+Aprendendo+Algo+Novo"
       alt="Typing SVG"
     />
   </a>
-</p>
-
-<br/>
-
-<!-- ===================== BADGES ===================== -->
-
-<p align="center">
-  <a href="https://github.com/JosielSantos16?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/JosielSantos16?label=Seguidores&style=for-the-badge&color=EF93C4&labelColor=1A1B27"
-      alt="Seguidores no GitHub"
-    />
-  </a>
-  
-  <a href="https://github.com/JosielSantos16?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/JosielSantos16?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=1A1B27&label=Estrelas"
-      alt="Estrelas no GitHub"
-    />
-  </a>
-  
-  <img
-    src="https://komarev.com/ghpvc/?username=JosielSantos16&label=Visitas%20ao%20Perfil&color=FF69B4&style=for-the-badge"
-    alt="Visitas ao perfil"
-  />
 </p>
 
 <br/><br/>
 
 <!-- ===================== ABOUT ===================== -->
 
-<h2 align="center">🌸 Sobre mim</h2>
+<h2 align="center">💻 Sobre mim</h2>
 
 <table align="center">
   <tr>
@@ -87,11 +62,15 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,postgres,mysql,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,postgres,mysql,tailwind,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=adonis,bootstrap,firebase,gitlab,graphql,linux,materialui,nuxtjs,postman,py,reactivex,sass,spring,twitter,vue&theme=dark" />
 </p>
 
 <br/><br/>
@@ -102,7 +81,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JosielSantos16&theme=transparent&hide_border=true&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JosielSantos16&theme=transparent&hide_border=true&stroke=4F46E5&ring=75DFFE&fire=425CFF&currStreakLabel=75DFFE&sideLabels=4F46E5&dates=4F46E5"
     alt="Sequência de contribuições no GitHub"
   />
 </p>
@@ -112,7 +91,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 <p align="center">
   <img
     width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JosielSantos16&bg_color=transparent&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JosielSantos16&bg_color=transparent&color=75DFFE&line=4F46E5&point=425CFF&area=true&area_color=4F46E5&hide_border=true"
     alt="Gráfico de atividade no GitHub"
   />
 </p>
@@ -175,15 +154,15 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josiel-santos-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://josielsantos-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-425CFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <a href="mailto:josielufopa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -198,7 +177,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado, com 3 anos de experiência, foca
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4,F8BBD0,FF69B4&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,50:4F46E5,100:425CFF&height=120&section=footer"
     alt="Rodapé"
   />
 </p>
